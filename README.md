@@ -14,3 +14,4 @@ This demo showcases how advanced animations and smooth state changes can elevate
 - **Frontend:** [React / Tailwind CSS / Your Tech Stack Here]
 - **Animations:** [CSS Animations / Framer Motion / etc.]
 - **Design Inspiration:** Airbnb Design System + Custom Motion System
+ 
