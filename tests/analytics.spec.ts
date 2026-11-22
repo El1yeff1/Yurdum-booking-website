@@ -40,3 +40,4 @@ test('featured-home events contain only listing and language, without blocking d
     { name: 'featured_home_surprise_click', data: { listing_id: 1, language: 'EN' } },
   ]);
 });
+ 
