@@ -161,3 +161,4 @@ test('split tool clamps guest count to the selected home capacity', async ({ pag
   await page.getByTestId('button-split-calc').click();
   await expect(page.getByTestId('text-split-result')).not.toContainText('NaN');
 });
+ 
