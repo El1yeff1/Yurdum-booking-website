@@ -2,6 +2,8 @@
 
 "Yurdum" is a modern, concept-driven property rental web application inspired by Airbnb, built with a heavy focus on **fluid motion design**, micro-interactions, and seamless UI/UX transitions. 
 
+https://yurdum.vercel.app/
+
 This demo showcases how advanced animations and smooth state changes can elevate a standard booking platform into an immersive, premium user experience.
 
 ## ✨ Key Features
